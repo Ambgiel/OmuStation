@@ -70,7 +70,7 @@
         # salvage mantle for salvagers
         SalvageSpecialist: ClothingCyberneticBeastMantleWorkSalvage
         # sec mantle for secoffs
-        Detective: ClothingCyberneticBeastMantleSecurity
+        Detective: ClothingCyberneticBeastMantleDetective
         SecurityCadet: ClothingCyberneticBeastMantleSecurity
         SecurityOfficer: ClothingCyberneticBeastMantleSecurity
         Warden: ClothingCyberneticBeastMantleSecurity
@@ -79,16 +79,18 @@
         MedicalDoctor: ClothingCyberneticBeastMantleMedical
         MedicalIntern: ClothingCyberneticBeastMantleMedical
         Paramedic: ClothingCyberneticBeastMantleMedical
-        Brigmedic: ClothingCyberneticBeastMantleMedical
+        Brigmedic: ClothingCyberneticBeastMantleSecMed
         # tossup of mantles for command.
         BlueshieldOfficer: ClothingCyberneticBeastMantleBlueshieldOfficer
-        Captain: ClothingCyberneticBeastMantleCommand
-        ChiefEngineer: ClothingCyberneticBeastMantleWorkAtmospherics
-        ChiefMedicalOfficer: ClothingCyberneticBeastMantleMedical
         HeadOfPersonnel: ClothingCyberneticBeastMantleCommand
-        HeadOfSecurity: ClothingCyberneticBeastMantleSecurity
-        Quartermaster: ClothingCyberneticBeastMantleCommand
-        ResearchDirector: ClothingCyberneticBeastMantleCommand
+        NanotrasenRepresentative: ClothingCyberneticBeastMantleCommand
+        AdministrativeAssistant: ClothingCyberneticBeastMantleCommand
+        ChiefEngineer: ClothingCyberneticBeastMantleChiefEngineer
+        ChiefMedicalOfficer: ClothingCyberneticBeastMantleChiefMedicalOfficer
+        HeadOfSecurity: ClothingCyberneticBeastMantleHeadOfSecurity
+        Quartermaster: ClothingCyberneticBeastMantleQuartermaster
+        ResearchDirector: ClothingCyberneticBeastMantleDirector
+        Captain: ClothingCyberneticBeastMantleCommandPlus
       # If they have none of the specified jobs:
       equipmentUnmet: ClothingCyberneticBeastMantle
   globalCost: 5

@@ -79,7 +79,7 @@
     {
       "name": "eyes-salvage",
       "directions": 4
-    },    
+    },
     {
       "name": "eyes-security",
       "directions": 4
@@ -94,6 +94,55 @@
     },
     {
       "name": "inhand-right",
+      "directions": 4
+    },
+    {
+      "name": "icon-director"
+    },
+    {
+      "name": "icon-chiefmed"
+    },
+    {
+      "name": "icon-headsec"
+    },
+    {
+      "name": "icon-security-med"
+    },
+    {
+      "name": "icon-chiefengineer"
+    },
+    {
+      "name": "icon-quartermaster"
+    },
+    {
+      "name": "helmet-quartermaster",
+      "directions": 4
+    },
+    {
+      "name": "helmet-director",
+      "directions": 4
+    },
+    {
+      "name": "helmet-headsec",
+      "directions": 4
+    },
+    {
+      "name": "helmet-chiefmed",
+      "directions": 4
+    },
+    {
+      "name": "helmet-chiefengineer",
+      "directions": 4
+    },
+    {
+      "name": "icon-captain"
+    },
+    {
+      "name": "helmet-captain",
+      "directions": 4
+    },
+    {
+      "name": "helmet-security-med",
       "directions": 4
     }
   ]

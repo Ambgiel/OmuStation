@@ -564,7 +564,7 @@
     state: icon-director
   - type: Clothing
     sprite: _Omu/Clothing/Head/mantle.rsi
-    ClothingVisuals:
+    clothingVisuals:
       head:
       - state: helmet-director
       - state: eyes-command
